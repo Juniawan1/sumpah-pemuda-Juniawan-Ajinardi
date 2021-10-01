@@ -1,13 +1,13 @@
-# {{Simple Aplikasi}} ({{ Tugas ke 2 Pemrograman Mobile }})
-{{ aplikasi ini menjelaskan tentang salah satu tokoh pahlawan sumpah pemuda di indonesia }}
+# Simple Aplikasi ( Tugas ke 2 Pemrograman Mobile )
+ aplikasi ini menjelaskan tentang salah satu tokoh pahlawan sumpah pemuda di indonesia 
 ### Screenshot
 {{ Letakan gambar aplikasi disini }}
 
 ### Built With
-- {{ widget Image, Text, Row, Column, dan Icon }}
+- widget Image, Text, Row, Column, dan Icon 
 
 ### Created By
-- {{ Juniawan Ajinardi }}
+- Juniawan Ajinardi 
 
 ### Mata Kuliah
 COE-5109 Pemprograman Mobile.
