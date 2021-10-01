@@ -1,7 +1,8 @@
 # W.R.Soepratman ( Tugas ke 2 Pemrograman Mobile )
  aplikasi ini menjelaskan tentang salah satu tokoh pahlawan sumpah pemuda di indonesia 
 ### Screenshot
-{{ Letakan gambar aplikasi disini }}
+![wr soepratman](https://user-images.githubusercontent.com/89622887/135589242-ae6a93d6-d231-46b4-b0bd-5dffa0ca1006.png)
+
 
 ### Built With
 - widget Image, Text, Row, Column, dan Icon 
