@@ -1,4 +1,4 @@
-# Simple Aplikasi ( Tugas ke 2 Pemrograman Mobile )
+# W.R.Soepratman ( Tugas ke 2 Pemrograman Mobile )
  aplikasi ini menjelaskan tentang salah satu tokoh pahlawan sumpah pemuda di indonesia 
 ### Screenshot
 {{ Letakan gambar aplikasi disini }}
